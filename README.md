@@ -8,7 +8,7 @@
 - 🤝 Realice el proyecto [Calculadora](https://1-js-calculadora.netlify.app/)
 
 - 🌱 Actualmente estoy aprendiendo **ReactiveX**
-- 
+  
 - 📫 Cómo contactarme **axzelcc.27@gmail.com**
 
 <h3 align="left">Lenguajes y herramientas:</h3>
