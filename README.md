@@ -3,12 +3,12 @@
 
 - 🔭 Realice el proyecto [Lista de pokémons](https://pokemon-static-r6zvj6wlw-axzelcc.vercel.app/)
 
-- 🌱 Actualmente estoy aprendiendo **ReactiveX**
-
 - 👯 Realice el proyecto [Explorador de peliculas](https://1-react-pelicula.netlify.app/)
 
 - 🤝 Realice el proyecto [Calculadora](https://1-js-calculadora.netlify.app/)
 
+- 🌱 Actualmente estoy aprendiendo **ReactiveX**
+- 
 - 📫 Cómo contactarme **axzelcc.27@gmail.com**
 
 <h3 align="left">Lenguajes y herramientas:</h3>
