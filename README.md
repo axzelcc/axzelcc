@@ -7,11 +7,11 @@ ofrecer soluciones innovadoras y de calidad. Mi objetivo es continuar
 creciendo profesionalmente, colaborando en proyectos desafiantes donde
 pueda aportar mi experiencia y seguir aprendiendo cada día.
 
-- 🔭 Realice el proyecto [Lista de pokémons](https://pokemon-static-r6zvj6wlw-axzelcc.vercel.app/)
+- 🔭 Realice el proyecto 
 
-- 👯 Realice el proyecto [Explorador de peliculas](https://1-react-pelicula.netlify.app/)
+- 👯 Realice el proyecto 
 
-- 🤝 Realice el proyecto [Calculadora](https://1-js-calculadora.netlify.app/)
+- 🤝 Realice el proyecto 
 
 - 📫 Cómo contactarme **axzelcc.27@gmail.com**
 
